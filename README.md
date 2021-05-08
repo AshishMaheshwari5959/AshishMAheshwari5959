@@ -15,11 +15,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ashish5959m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="ashish5959m" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ashish-maheshwari-5959-2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="ashish-maheshwari-5959-2001" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14176906" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="14176906" height="30" width="40" /></a>
-<a href="https://fb.com/as" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="as" height="30" width="40" /></a>
-<a href="https://instagram.com/ashish_5959m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="ashish_5959m" height="30" width="40" /></a>
+<a href="https://twitter.com/ashish5959m" target="blank"><img align="center" src="https://seeklogo.com/free-vector-logos/twitter" alt="ashish5959m" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ashish-maheshwari-5959-2001" target="blank"><img align="center" src="https://seeklogo.com/vector-logo/286694/linkedin-in-icon" alt="ashish-maheshwari-5959-2001" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14176906" target="blank"><img align="center" src="https://seeklogo.com/vector-logo/280035/stack-overflow" alt="14176906" height="30" width="40" /></a>
+<a href="https://fb.com/as" target="blank"><img align="center" src="https://seeklogo.com/vector-logo/157841/facebook" alt="as" height="30" width="40" /></a>
+<a href="https://instagram.com/ashish_5959m" target="blank"><img align="center" src="https://seeklogo.com/vector-logo/282177/instagram-new-2016" alt="ashish_5959m" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ashish5959" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ashish5959" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/m27sanjay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="m27sanjay" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@ashish3816" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerearth.svg" alt="@ashish3816" height="30" width="40" /></a>
