@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ashish5959m" target="blank"><img align="center" src="https://seeklogo.com/free-vector-logos/twitter" alt="ashish5959m" height="30" width="40" /></a>
+<a href="https://twitter.com/ashish5959m" target="blank"><img align="center" src="https://img-premium.flaticon.com/png/512/739/premium/739257.png?token=exp=1624645075~hmac=c3748c9ecb9502cd706d1fe9d9c0cac1" alt="ashish5959m" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ashish-maheshwari-5959-2001" target="blank"><img align="center" src="https://seeklogo.com/vector-logo/286694/linkedin-in-icon" alt="ashish-maheshwari-5959-2001" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14176906" target="blank"><img align="center" src="https://seeklogo.com/vector-logo/280035/stack-overflow" alt="14176906" height="30" width="40" /></a>
 <a href="https://fb.com/as" target="blank"><img align="center" src="https://seeklogo.com/vector-logo/157841/facebook" alt="as" height="30" width="40" /></a>
