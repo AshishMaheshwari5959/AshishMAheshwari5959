@@ -15,10 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ashish5959m" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/733/733579.png" alt="ashish5959m" height="50" width=auto /></a>
+<a href="https://twitter.com/ashish5959m" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/733/733579.png" alt="ashish5959m" height="50" width=auto /></a>&emsp;&emsp;
 <a href="https://linkedin.com/in/ashish-maheshwari-5959-2001" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/124/124011.png" alt="ashish-maheshwari-5959-2001" height="50" width=auto /></a>
 <a href="https://stackoverflow.com/users/14176906" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/2111/2111628.png" alt="14176906" height="50" width=auto /></a>
-<a href="https://fb.com/as" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/145/145802.png" alt="as" height="50" width=auto /></a>
+<a href="https://www.facebook.com/profile.php?id=100008251841177" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/145/145802.png" alt="as" height="50" width=auto /></a>
 <a href="https://instagram.com/ashish_5959m" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" alt="ashish_5959m" height="50" width=auto /></a>
 <a href="https://www.codechef.com/users/ashish5959" target="blank"><img align="center" src="https://miro.medium.com/max/666/1*1W0-bbmt4iiEpp_pPrS0VQ.png" alt="ashish5959" height="50" width=auto /></a>
 <a href="https://www.hackerrank.com/m27sanjay" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/330px-HackerRank_Icon-1000px.png" alt="m27sanjay" height="50" width=auto /></a>
